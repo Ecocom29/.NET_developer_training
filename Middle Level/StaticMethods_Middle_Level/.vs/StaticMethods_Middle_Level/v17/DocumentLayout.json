@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GIT_Repositories\\.NET_developer_training\\Middle Level\\StaticMethods_Middle_Level\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C80D9A-BB1F-4EC7-A5A3-8F164140705B}|StaticMethods_Middle_Level\\StaticMethods_Middle_Level.csproj|c:\\git_repositories\\.net_developer_training\\middle level\\staticmethods_middle_level\\staticmethods_middle_level\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C80D9A-BB1F-4EC7-A5A3-8F164140705B}|StaticMethods_Middle_Level\\StaticMethods_Middle_Level.csproj|solutionrelative:staticmethods_middle_level\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C80D9A-BB1F-4EC7-A5A3-8F164140705B}|StaticMethods_Middle_Level\\StaticMethods_Middle_Level.csproj|c:\\git_repositories\\.net_developer_training\\middle level\\staticmethods_middle_level\\staticmethods_middle_level\\rectagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C80D9A-BB1F-4EC7-A5A3-8F164140705B}|StaticMethods_Middle_Level\\StaticMethods_Middle_Level.csproj|solutionrelative:staticmethods_middle_level\\rectagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C80D9A-BB1F-4EC7-A5A3-8F164140705B}|StaticMethods_Middle_Level\\StaticMethods_Middle_Level.csproj|c:\\git_repositories\\.net_developer_training\\middle level\\staticmethods_middle_level\\staticmethods_middle_level\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C80D9A-BB1F-4EC7-A5A3-8F164140705B}|StaticMethods_Middle_Level\\StaticMethods_Middle_Level.csproj|solutionrelative:staticmethods_middle_level\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C80D9A-BB1F-4EC7-A5A3-8F164140705B}|StaticMethods_Middle_Level\\StaticMethods_Middle_Level.csproj|c:\\git_repositories\\.net_developer_training\\middle level\\staticmethods_middle_level\\staticmethods_middle_level\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C80D9A-BB1F-4EC7-A5A3-8F164140705B}|StaticMethods_Middle_Level\\StaticMethods_Middle_Level.csproj|solutionrelative:staticmethods_middle_level\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C80D9A-BB1F-4EC7-A5A3-8F164140705B}|StaticMethods_Middle_Level\\StaticMethods_Middle_Level.csproj|c:\\git_repositories\\.net_developer_training\\middle level\\staticmethods_middle_level\\staticmethods_middle_level\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C80D9A-BB1F-4EC7-A5A3-8F164140705B}|StaticMethods_Middle_Level\\StaticMethods_Middle_Level.csproj|solutionrelative:staticmethods_middle_level\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C80D9A-BB1F-4EC7-A5A3-8F164140705B}|StaticMethods_Middle_Level\\StaticMethods_Middle_Level.csproj|c:\\git_repositories\\.net_developer_training\\middle level\\staticmethods_middle_level\\staticmethods_middle_level\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C80D9A-BB1F-4EC7-A5A3-8F164140705B}|StaticMethods_Middle_Level\\StaticMethods_Middle_Level.csproj|solutionrelative:staticmethods_middle_level\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\GIT_Repositories\\.NET_developer_training\\Middle Level\\StaticMethods_Middle_Level\\StaticMethods_Middle_Level\\Triangle.cs",
+              "RelativeDocumentMoniker": "StaticMethods_Middle_Level\\Triangle.cs",
+              "ToolTip": "C:\\GIT_Repositories\\.NET_developer_training\\Middle Level\\StaticMethods_Middle_Level\\StaticMethods_Middle_Level\\Triangle.cs",
+              "RelativeToolTip": "StaticMethods_Middle_Level\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T23:03:37.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectagle.cs",
+              "DocumentMoniker": "C:\\GIT_Repositories\\.NET_developer_training\\Middle Level\\StaticMethods_Middle_Level\\StaticMethods_Middle_Level\\Rectagle.cs",
+              "RelativeDocumentMoniker": "StaticMethods_Middle_Level\\Rectagle.cs",
+              "ToolTip": "C:\\GIT_Repositories\\.NET_developer_training\\Middle Level\\StaticMethods_Middle_Level\\StaticMethods_Middle_Level\\Rectagle.cs",
+              "RelativeToolTip": "StaticMethods_Middle_Level\\Rectagle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:56:35.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\GIT_Repositories\\.NET_developer_training\\Middle Level\\StaticMethods_Middle_Level\\StaticMethods_Middle_Level\\Circle.cs",
+              "RelativeDocumentMoniker": "StaticMethods_Middle_Level\\Circle.cs",
+              "ToolTip": "C:\\GIT_Repositories\\.NET_developer_training\\Middle Level\\StaticMethods_Middle_Level\\StaticMethods_Middle_Level\\Circle.cs",
+              "RelativeToolTip": "StaticMethods_Middle_Level\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:49:32.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\GIT_Repositories\\.NET_developer_training\\Middle Level\\StaticMethods_Middle_Level\\StaticMethods_Middle_Level\\User.cs",
+              "RelativeDocumentMoniker": "StaticMethods_Middle_Level\\User.cs",
+              "ToolTip": "C:\\GIT_Repositories\\.NET_developer_training\\Middle Level\\StaticMethods_Middle_Level\\StaticMethods_Middle_Level\\User.cs",
+              "RelativeToolTip": "StaticMethods_Middle_Level\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:16:49.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\GIT_Repositories\\.NET_developer_training\\Middle Level\\StaticMethods_Middle_Level\\StaticMethods_Middle_Level\\Calculadora.cs",
+              "RelativeDocumentMoniker": "StaticMethods_Middle_Level\\Calculadora.cs",
+              "ToolTip": "C:\\GIT_Repositories\\.NET_developer_training\\Middle Level\\StaticMethods_Middle_Level\\StaticMethods_Middle_Level\\Calculadora.cs",
+              "RelativeToolTip": "StaticMethods_Middle_Level\\Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:12:07.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GIT_Repositories\\.NET_developer_training\\Middle Level\\StaticMethods_Middle_Level\\StaticMethods_Middle_Level\\Program.cs",
+              "RelativeDocumentMoniker": "StaticMethods_Middle_Level\\Program.cs",
+              "ToolTip": "C:\\GIT_Repositories\\.NET_developer_training\\Middle Level\\StaticMethods_Middle_Level\\StaticMethods_Middle_Level\\Program.cs",
+              "RelativeToolTip": "StaticMethods_Middle_Level\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:02:42.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

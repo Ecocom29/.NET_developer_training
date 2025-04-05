@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Eliezer Cocom\\Documents\\Visual Studio 2022\\Projects\\.NET Developer Training\\Basic Level\\ValueTypeConversions_Basic_Level\\",
+  "WorkspaceRootPath": "C:\\GIT_Repositories\\.NET_developer_training\\Basic Level\\ValueTypeConversions_Basic_Level\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B501513C-9C4C-490B-ADC9-72F3A8CE0DC5}|ValueTypeConversions_Basic_Level\\ValueTypeConversions_Basic_Level.csproj|c:\\users\\eliezer cocom\\documents\\visual studio 2022\\projects\\.net developer training\\basic level\\valuetypeconversions_basic_level\\valuetypeconversions_basic_level\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B501513C-9C4C-490B-ADC9-72F3A8CE0DC5}|ValueTypeConversions_Basic_Level\\ValueTypeConversions_Basic_Level.csproj|c:\\git_repositories\\.net_developer_training\\basic level\\valuetypeconversions_basic_level\\valuetypeconversions_basic_level\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B501513C-9C4C-490B-ADC9-72F3A8CE0DC5}|ValueTypeConversions_Basic_Level\\ValueTypeConversions_Basic_Level.csproj|solutionrelative:valuetypeconversions_basic_level\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Eliezer Cocom\\Documents\\Visual Studio 2022\\Projects\\.NET Developer Training\\Basic Level\\ValueTypeConversions_Basic_Level\\ValueTypeConversions_Basic_Level\\Program.cs",
+              "DocumentMoniker": "C:\\GIT_Repositories\\.NET_developer_training\\Basic Level\\ValueTypeConversions_Basic_Level\\ValueTypeConversions_Basic_Level\\Program.cs",
               "RelativeDocumentMoniker": "ValueTypeConversions_Basic_Level\\Program.cs",
-              "ToolTip": "C:\\Users\\Eliezer Cocom\\Documents\\Visual Studio 2022\\Projects\\.NET Developer Training\\Basic Level\\ValueTypeConversions_Basic_Level\\ValueTypeConversions_Basic_Level\\Program.cs",
+              "ToolTip": "C:\\GIT_Repositories\\.NET_developer_training\\Basic Level\\ValueTypeConversions_Basic_Level\\ValueTypeConversions_Basic_Level\\Program.cs",
               "RelativeToolTip": "ValueTypeConversions_Basic_Level\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T17:36:20.395Z",
               "EditorCaption": ""
