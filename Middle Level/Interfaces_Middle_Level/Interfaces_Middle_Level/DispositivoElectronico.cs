@@ -1,11 +1,11 @@
 ﻿namespace Interfaces_Middle_Level
 {
-    public sealed class Vehiculo: IVehiculo
+    public class DispositivoElectronico: IVehiculo
     {
-        public int Id { get; set; }
-        public string? Name { get; set; }
-        public string? Marca { get; set; }
-        public string? Description { get; set; }
+        public int ID { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public DispositivoElectronico() { }
 
         public void Apagar()
         {

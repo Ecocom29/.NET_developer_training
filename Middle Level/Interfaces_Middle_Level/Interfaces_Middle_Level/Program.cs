@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Vehiculo obj_vehiculo = new Vehiculo();
+            obj_vehiculo.Apagar();
         }
     }
 }
