@@ -1,4 +1,4 @@
-### What is the Interfaz?
+### ¿Qué es una Interfaz?
 
 **Answer:** Un interfaz en es una colección de definiciones que una clase o una estructura puede implementar (como métodos, propiedades, eventos o indexadores).
 
@@ -23,7 +23,7 @@ Las interfaces son fundamentales en la programación orientada a objetos porque 
 }
 ```
 
-**Example:** Aquí hay un ejemplo de cómo definir e implementar una interfaz en C#:
+**Ejemplo:** Aquí hay un ejemplo de cómo definir e implementar una interfaz en C#:
 
 ```csharp
 public interface IConducible
