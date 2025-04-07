@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GIT_Repositories\\.NET_developer_training\\Middle Level\\AccessModifiers_Middle_Level\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC418D71-C353-4085-8653-2C23EC47E186}|AccessModifiers_Middle_Level\\AccessModifiers_Middle_Level.csproj|c:\\git_repositories\\.net_developer_training\\middle level\\accessmodifiers_middle_level\\accessmodifiers_middle_level\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC418D71-C353-4085-8653-2C23EC47E186}|AccessModifiers_Middle_Level\\AccessModifiers_Middle_Level.csproj|solutionrelative:accessmodifiers_middle_level\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC418D71-C353-4085-8653-2C23EC47E186}|AccessModifiers_Middle_Level\\AccessModifiers_Middle_Level.csproj|c:\\git_repositories\\.net_developer_training\\middle level\\accessmodifiers_middle_level\\accessmodifiers_middle_level\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC418D71-C353-4085-8653-2C23EC47E186}|AccessModifiers_Middle_Level\\AccessModifiers_Middle_Level.csproj|solutionrelative:accessmodifiers_middle_level\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC418D71-C353-4085-8653-2C23EC47E186}|AccessModifiers_Middle_Level\\AccessModifiers_Middle_Level.csproj|c:\\git_repositories\\.net_developer_training\\middle level\\accessmodifiers_middle_level\\accessmodifiers_middle_level\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC418D71-C353-4085-8653-2C23EC47E186}|AccessModifiers_Middle_Level\\AccessModifiers_Middle_Level.csproj|solutionrelative:accessmodifiers_middle_level\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC418D71-C353-4085-8653-2C23EC47E186}|AccessModifiers_Middle_Level\\AccessModifiers_Middle_Level.csproj|c:\\git_repositories\\.net_developer_training\\middle level\\accessmodifiers_middle_level\\accessmodifiers_middle_level\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC418D71-C353-4085-8653-2C23EC47E186}|AccessModifiers_Middle_Level\\AccessModifiers_Middle_Level.csproj|solutionrelative:accessmodifiers_middle_level\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\GIT_Repositories\\.NET_developer_training\\Middle Level\\AccessModifiers_Middle_Level\\AccessModifiers_Middle_Level\\Client.cs",
+              "RelativeDocumentMoniker": "AccessModifiers_Middle_Level\\Client.cs",
+              "ToolTip": "C:\\GIT_Repositories\\.NET_developer_training\\Middle Level\\AccessModifiers_Middle_Level\\AccessModifiers_Middle_Level\\Client.cs",
+              "RelativeToolTip": "AccessModifiers_Middle_Level\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:10:05.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\GIT_Repositories\\.NET_developer_training\\Middle Level\\AccessModifiers_Middle_Level\\AccessModifiers_Middle_Level\\Category.cs",
+              "RelativeDocumentMoniker": "AccessModifiers_Middle_Level\\Category.cs",
+              "ToolTip": "C:\\GIT_Repositories\\.NET_developer_training\\Middle Level\\AccessModifiers_Middle_Level\\AccessModifiers_Middle_Level\\Category.cs",
+              "RelativeToolTip": "AccessModifiers_Middle_Level\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:08:47.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\GIT_Repositories\\.NET_developer_training\\Middle Level\\AccessModifiers_Middle_Level\\AccessModifiers_Middle_Level\\Product.cs",
+              "RelativeDocumentMoniker": "AccessModifiers_Middle_Level\\Product.cs",
+              "ToolTip": "C:\\GIT_Repositories\\.NET_developer_training\\Middle Level\\AccessModifiers_Middle_Level\\AccessModifiers_Middle_Level\\Product.cs",
+              "RelativeToolTip": "AccessModifiers_Middle_Level\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:01:51.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GIT_Repositories\\.NET_developer_training\\Middle Level\\AccessModifiers_Middle_Level\\AccessModifiers_Middle_Level\\Program.cs",
+              "RelativeDocumentMoniker": "AccessModifiers_Middle_Level\\Program.cs",
+              "ToolTip": "C:\\GIT_Repositories\\.NET_developer_training\\Middle Level\\AccessModifiers_Middle_Level\\AccessModifiers_Middle_Level\\Program.cs",
+              "RelativeToolTip": "AccessModifiers_Middle_Level\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T23:17:24.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

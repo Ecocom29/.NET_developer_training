@@ -1,0 +1,15 @@
+C:\GIT_Repositories\.NET_developer_training\Middle Level\AbstractClass_Middle_Level\AbstractClass_Middle_Level\bin\Debug\net8.0\AbstractClass_Middle_Level.exe
+C:\GIT_Repositories\.NET_developer_training\Middle Level\AbstractClass_Middle_Level\AbstractClass_Middle_Level\bin\Debug\net8.0\AbstractClass_Middle_Level.deps.json
+C:\GIT_Repositories\.NET_developer_training\Middle Level\AbstractClass_Middle_Level\AbstractClass_Middle_Level\bin\Debug\net8.0\AbstractClass_Middle_Level.runtimeconfig.json
+C:\GIT_Repositories\.NET_developer_training\Middle Level\AbstractClass_Middle_Level\AbstractClass_Middle_Level\bin\Debug\net8.0\AbstractClass_Middle_Level.dll
+C:\GIT_Repositories\.NET_developer_training\Middle Level\AbstractClass_Middle_Level\AbstractClass_Middle_Level\bin\Debug\net8.0\AbstractClass_Middle_Level.pdb
+C:\GIT_Repositories\.NET_developer_training\Middle Level\AbstractClass_Middle_Level\AbstractClass_Middle_Level\obj\Debug\net8.0\AbstractClass_Middle_Level.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT_Repositories\.NET_developer_training\Middle Level\AbstractClass_Middle_Level\AbstractClass_Middle_Level\obj\Debug\net8.0\AbstractClass_Middle_Level.AssemblyInfoInputs.cache
+C:\GIT_Repositories\.NET_developer_training\Middle Level\AbstractClass_Middle_Level\AbstractClass_Middle_Level\obj\Debug\net8.0\AbstractClass_Middle_Level.AssemblyInfo.cs
+C:\GIT_Repositories\.NET_developer_training\Middle Level\AbstractClass_Middle_Level\AbstractClass_Middle_Level\obj\Debug\net8.0\AbstractClass_Middle_Level.csproj.CoreCompileInputs.cache
+C:\GIT_Repositories\.NET_developer_training\Middle Level\AbstractClass_Middle_Level\AbstractClass_Middle_Level\obj\Debug\net8.0\AbstractClass_Middle_Level.sourcelink.json
+C:\GIT_Repositories\.NET_developer_training\Middle Level\AbstractClass_Middle_Level\AbstractClass_Middle_Level\obj\Debug\net8.0\AbstractClass_Middle_Level.dll
+C:\GIT_Repositories\.NET_developer_training\Middle Level\AbstractClass_Middle_Level\AbstractClass_Middle_Level\obj\Debug\net8.0\refint\AbstractClass_Middle_Level.dll
+C:\GIT_Repositories\.NET_developer_training\Middle Level\AbstractClass_Middle_Level\AbstractClass_Middle_Level\obj\Debug\net8.0\AbstractClass_Middle_Level.pdb
+C:\GIT_Repositories\.NET_developer_training\Middle Level\AbstractClass_Middle_Level\AbstractClass_Middle_Level\obj\Debug\net8.0\AbstractClass_Middle_Level.genruntimeconfig.cache
+C:\GIT_Repositories\.NET_developer_training\Middle Level\AbstractClass_Middle_Level\AbstractClass_Middle_Level\obj\Debug\net8.0\ref\AbstractClass_Middle_Level.dll
